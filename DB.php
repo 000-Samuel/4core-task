@@ -1,7 +1,7 @@
 <?php
     $servername = "localhost";
-    $username = "root"; // Replace with your MySQL username
-    $password = "123456"; // Replace with your MySQL password
+    $username = "root"; 
+    $password = "123456"; 
     $dbname = "4core-task";
 
     
